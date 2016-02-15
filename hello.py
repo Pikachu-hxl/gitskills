@@ -1,2 +1,3 @@
 How to output "hello world" in Python?
-B:No
+A.Yes
+B.No
